@@ -2,9 +2,11 @@
 
 ## How do I install these formulae?
 
-`brew install fraguinha/fraguinha/<formula>`
+`brew install fraguinha/fraguinha/<formula>` or `brew cask install fraguinha/fraguinha/<cask>`
 
-Or `brew tap fraguinha/fraguinha` and then `brew [cask] install <formula>`.
+Or `brew tap fraguinha/fraguinha` and then
+
+`brew install <formula>` or `brew install <cask>`
 
 ## Documentation
 
